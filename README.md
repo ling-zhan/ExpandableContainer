@@ -1,4 +1,4 @@
-# ExpandableContainer(可上傳了!! 用自已的上傳即可)
+# ExpandableContainer
 ![avatar](/preview01.gif)
 ![avatar](/preview02.png)
 ![avatar](/preview03.png)
@@ -61,7 +61,7 @@ ScrollView {
 
 @State var selected: Int = 0
 
-...
+...
 
 ScrollView {
     LazyVStack(spacing: 20) {
