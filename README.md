@@ -97,7 +97,7 @@ ScrollView {
 
 ```
 
-完整範例檔 [ExpandableContainerDemo](https://) 
+完整範例檔 [ExpandableContainerDemo](https://github.com/ling-zhan/ExpandableContainerDemo) 
 
  ### 授權
 MIT
