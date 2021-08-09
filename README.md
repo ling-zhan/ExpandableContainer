@@ -1,6 +1,7 @@
 # ExpandableContainer(可上傳了!! 用自已的上傳即可)
 ![avatar](/preview01.gif)
-![avatar](/preview02.gif)
+![avatar](/preview02.png)
+![avatar](/preview03.png)
 
 一個可擴展的 SwiftUI 套件
   - 可自由定義畫面
