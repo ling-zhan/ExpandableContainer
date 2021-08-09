@@ -1,7 +1,6 @@
 # ExpandableContainer
 ![avatar](/preview01.gif)
 ![avatar](/preview02.png)
-![avatar](/preview03.png)
 
 一個可擴展的 SwiftUI 套件
   - 可自由定義畫面
@@ -14,7 +13,7 @@
 ### 安裝
 在 Xcode 中:
   - 到 **File > Swift Packages > Add Package Dependency**
-  - 然後貼上 github 網址：https://github.com/ling-zhan/TabBar-SwiftUI
+  - 然後貼上 github 網址：https://github.com/ling-zhan/ExpandableContainer
   - 接下來按 **Next > Branch: master > Next > Finish**
   - 成功的把套件匯進你的專案了
    
