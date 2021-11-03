@@ -12,10 +12,9 @@
 
 ### 安裝
 在 Xcode 中:
-  - 到 **File > Swift Packages > Add Package Dependency**
+  - 到 **File > Add Packages...**
   - 然後貼上 github 網址：https://github.com/ling-zhan/ExpandableContainer
-  - 接下來按 **Next > Branch: master > Next > Finish**
-  - 成功的把套件匯進你的專案了
+  - 接下來按 **Add Package** 就完成了
    
  ### 如何使用
   - 匯入 ExpandableContainer
